@@ -1,5 +1,4 @@
-![GitHub stars] (https://img.shields.io/github/stars/huzaifashahid7/catalytic-wet-oxidation?style=social)
-# Catalytic-wet-oxidation
+# Catalytic-wet-air-oxidation
 Research on catalytic wet air oxidation for industrial wastewater treatment using Fe/Al₂O₃.
 # Catalytic Wet Air Oxidation for Organic Pollutant Removal
 
